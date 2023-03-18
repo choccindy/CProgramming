@@ -1,0 +1,6 @@
+.vs/
+Debug/
+physic_engine_dx/x64/
+x64/
+*.pch
+*.pdb
